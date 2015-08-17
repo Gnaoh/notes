@@ -6,3 +6,7 @@
 }
 .block-children > * { display: block;}
 .inline-block-children > * { display: inline-block; }
+
+.shout {
+  text-transform: uppercase;
+}

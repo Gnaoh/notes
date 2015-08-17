@@ -1,0 +1,10 @@
+.topbg {
+  background-color: #125688;
+  min-height: 288px;
+  background-size: cover;
+  margin: -9px -9px -9px -9px;
+}
+
+.botbg {
+  background-color: #fbfbfb
+}
